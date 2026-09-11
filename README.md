@@ -12,7 +12,7 @@
 
 <br>
 
-Port Said University, B.Sc. Computer & Control Engineering — Graduated Jun 2026 with **84%**. I build backend systems, data engineering pipelines, and applied AI/ML projects. 2× ECPC Finalist, 1000+ problems solved on Codeforces.
+Port Said University, B.Sc. Computer & Control Engineering — Graduated Jun 2026 with **84.88%**. I build backend systems, data engineering pipelines, and applied AI/ML projects. 2× ECPC Finalist, 1000+ problems solved on Codeforces.
 
 <br>
 
